@@ -2340,7 +2340,7 @@ static struct usb_device_id uvc_ids[] = {
 	{ .match_flags		= USB_DEVICE_ID_MATCH_DEVICE
 				| USB_DEVICE_ID_MATCH_INT_INFO,
 	  .idVendor		= 0x199e,
-	  .idProduct		= 0x8102,
+	  .idProduct		= 0x8101,
 	  .bInterfaceClass	= USB_CLASS_VENDOR_SPEC,
 	  .bInterfaceSubClass	= 1,
 	  .bInterfaceProtocol	= 0 },
